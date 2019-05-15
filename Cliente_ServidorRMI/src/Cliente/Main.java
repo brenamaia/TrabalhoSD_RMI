@@ -28,7 +28,7 @@ public class Main {
         }
         Cliente cliente = new Cliente();
         interfaceRMI rmiinter = cliente.init();
-        rmiinter.sendData("cuuuu");
+        rmiinter.sendData("uuuu");
         
     }
     
